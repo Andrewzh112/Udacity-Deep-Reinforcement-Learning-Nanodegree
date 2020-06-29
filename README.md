@@ -17,7 +17,7 @@ This repository contains material related to Udacity's [Deep Reinforcement Learn
 
 
 ### Exercises
-1. Introduction to Deep Reinforcement
+
  - [Monte Carlo Methods](https://github.com/Andrewzh112/Udacity-Deep-Reinforcement-Learning-Nanodegree/tree/master/exercises/monte-carlo)
  - [Temporal Difference Methods](https://github.com/Andrewzh112/Udacity-Deep-Reinforcement-Learning-Nanodegree/tree/master/exercises/temporal-difference)
  - [Taxi](https://github.com/Andrewzh112/Udacity-Deep-Reinforcement-Learning-Nanodegree/tree/master/exercises/3.%20lab-taxi)
